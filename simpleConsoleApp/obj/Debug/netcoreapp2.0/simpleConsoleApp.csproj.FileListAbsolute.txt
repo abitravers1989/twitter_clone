@@ -1,0 +1,10 @@
+/Users/abigailtravers/Projects/simpleConsoleApp/simpleConsoleApp/bin/Debug/netcoreapp2.0/simpleConsoleApp.deps.json
+/Users/abigailtravers/Projects/simpleConsoleApp/simpleConsoleApp/bin/Debug/netcoreapp2.0/simpleConsoleApp.runtimeconfig.json
+/Users/abigailtravers/Projects/simpleConsoleApp/simpleConsoleApp/bin/Debug/netcoreapp2.0/simpleConsoleApp.runtimeconfig.dev.json
+/Users/abigailtravers/Projects/simpleConsoleApp/simpleConsoleApp/bin/Debug/netcoreapp2.0/simpleConsoleApp.dll
+/Users/abigailtravers/Projects/simpleConsoleApp/simpleConsoleApp/bin/Debug/netcoreapp2.0/simpleConsoleApp.pdb
+/Users/abigailtravers/Projects/simpleConsoleApp/simpleConsoleApp/obj/Debug/netcoreapp2.0/simpleConsoleApp.csproj.CoreCompileInputs.cache
+/Users/abigailtravers/Projects/simpleConsoleApp/simpleConsoleApp/obj/Debug/netcoreapp2.0/simpleConsoleApp.AssemblyInfoInputs.cache
+/Users/abigailtravers/Projects/simpleConsoleApp/simpleConsoleApp/obj/Debug/netcoreapp2.0/simpleConsoleApp.AssemblyInfo.cs
+/Users/abigailtravers/Projects/simpleConsoleApp/simpleConsoleApp/obj/Debug/netcoreapp2.0/simpleConsoleApp.dll
+/Users/abigailtravers/Projects/simpleConsoleApp/simpleConsoleApp/obj/Debug/netcoreapp2.0/simpleConsoleApp.pdb

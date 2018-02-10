@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{9F2055F8-7424-4F3D-870E-0AAD6C5EF70B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TwitterCloneTests/TweetTests.cs">
+    <Files>
+      <File FileName="simpleConsoleApp/Program.cs" Line="12" Column="32" />
+      <File FileName="simpleConsoleApp/Tweet.cs" Line="11" Column="6" />
+      <File FileName="TwitterCloneTests/TweetTests.cs" Line="7" Column="19" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TwitterCloneTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.simpleConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
